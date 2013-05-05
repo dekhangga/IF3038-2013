@@ -1,0 +1,17 @@
+---
+applications:
+  .:
+    name: tubes4asdasd
+    framework:
+      name: php
+      info:
+        mem: 128M
+        description: PHP Application
+        exec: 
+    infra: aws
+    url: ${name}.${target-base}
+    mem: 256M
+    instances: 1
+    services:
+      progin_439_13508105:
+        type: mysql

@@ -1,0 +1,166 @@
+/*=========================PROFILE=============*/
+#profheader{
+    width: 374px;
+    height: 570px;
+    background-image: url("../pict/bgprof.png");
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+#avatarnya{
+      padding-top: 10px;
+      padding-left: 45px;
+}
+
+#namalengkap{
+	margin-top: 10px;
+	font-family: Calibri;
+	font-size: 20px;
+	text-align: center;
+}
+
+#tanggallahir{
+	margin-top: 2px;
+	font-family: Calibri;
+	font-size: 20px;
+	text-align: center;
+}
+
+#email{
+	margin-top: 2px;
+	font-family: Calibri;
+	font-size: 20px;
+	text-align: center;
+}
+#username24{
+	margin-top: 2px;
+        padding-top: 35px;
+	font-family: Calibri;
+	font-size: 35px;
+	text-align: center;
+        color: #e58100;
+}
+
+#editprof{
+    margin-top: 30px;
+    margin-left: 115px;
+    padding-top: 10px;
+    width: 140px;
+    height: 50px;
+    background-color: #e58100;
+    color: #ffffff;
+    font-family: Calibri;
+    font-size: 30px;
+    text-align: center;
+    border-radius:10px;
+        -moz-border-radius:10px;
+        -webkit-border-radius:10px;
+	font-weight: 800;
+}
+
+#editprof:hover{
+    color: #ffffff;
+    background-color: #000000;
+}
+/*=======================================================*/
+#profil1Form {
+    margin-top: -530px;
+	margin-left: 580px;
+}
+#profil1Form ul {
+	list-style-type:none;
+	padding: 0;
+	margin: 0;
+	margin-top:-6px;
+}
+#profil1Form li {
+	margin-top:6px;
+}
+#tugas_selesai {
+    margin-top: -432px;
+	margin-left: 845px;
+}
+
+
+#tugas_selesai ul {
+	list-style-type:none;
+	padding: 0;
+	margin: 0;
+	margin-top:-6px;
+}
+#tugas_selesai li {
+	margin-top:6px;
+}
+.listProfilbox{
+	text-align: center;
+	width:240px;
+	height:65px;
+	background:#c74f51;
+	/*border:2px solid #d1d1d1;*/
+	padding:0px;
+	font-family:Calibri;
+	font-size:20px;
+	color:#ffffff;
+        border-radius:15px 15px 15px 15px;
+        -moz-border-radius:15px 15px 15px 15px;
+        -webkit-border-radius:15px 15px 15px 15px;     
+}
+
+.listProfilbox2{
+	text-align: center;
+	width:240px;
+	height:65px;
+	background:#000000;
+	/*border:2px solid #d1d1d1;*/
+	padding:0px;
+	font-family:Calibri;
+	font-size:20px;
+	color:#ffffff;
+        border-radius:15px 15px 15px 15px;
+        -moz-border-radius:15px 15px 15px 15px;
+        -webkit-border-radius:15px 15px 15px 15px;     
+}
+
+
+.submitreg:hover{
+    background:#000000;
+    
+}
+
+/* buat validasi edit profil */
+#useric{
+	height: 20px;
+}
+
+#passic{
+	height: 20px;
+}
+
+#confic{
+	height: 20px;
+}
+
+#nameic{
+	height: 20px;
+}
+
+#emailic{
+	height: 20px;
+}
+
+#avaic{
+	height: 20px;
+}
+
+#dateic{
+	height: 20px;
+}
+
+#saveep{
+    padding-top:10px;
+    
+}
+
+#jump{
+    margin-left:-100px;
+}
